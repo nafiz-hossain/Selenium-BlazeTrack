@@ -1,4 +1,4 @@
-# Selenium DemoBlaze Testing
+# Selenium Blaze Track
 
 Welcome to the Selenium DemoBlaze Testing repository! This repository is designed to help myself learn Selenium WebDriver and TestNG by testing the DemoBlaze website.
 
